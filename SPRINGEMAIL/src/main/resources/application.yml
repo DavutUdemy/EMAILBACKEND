@@ -5,9 +5,9 @@ server:
 
 spring:
   datasource:
-    password: 514010191
+    password: 
     url: jdbc:postgresql://localhost:5432/registration
-    username: postgres
+    username: 
   jpa:
     hibernate:
       ddl-auto: update
@@ -21,7 +21,7 @@ spring:
     host: smtp.gmail.com
     port: 587
     username: nailmemmedova12@gmail.com
-    password: Naili514000651
+    password: 
 
     properties:
       mail:
